@@ -1,0 +1,1039 @@
+{
+	"count": 324,
+	"next": "https://gutendex.com/books/?page=2&search=paris",
+	"previous": null,
+	"results": [
+		{
+			"id": 2610,
+			"title": "Notre-Dame de Paris",
+			"authors": [
+				{
+					"name": "Hugo, Victor",
+					"birth_year": 1802,
+					"death_year": 1885
+				}
+			],
+			"translators": [
+				{
+					"name": "Hapgood, Isabel Florence",
+					"birth_year": 1850,
+					"death_year": 1928
+				}
+			],
+			"subjects": [
+				"Clergy -- Fiction",
+				"France -- History -- Louis XI, 1461-1483 -- Fiction",
+				"Historical fiction",
+				"Notre-Dame de Paris (Cathedral) -- Fiction",
+				"Paris (France) -- History -- To 1515 -- Fiction",
+				"People with disabilities -- Fiction",
+				"Romances"
+			],
+			"bookshelves": [
+				"Banned Books from Anne Haight's list",
+				"Harvard Classics",
+				"Movie Books"
+			],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/2610/pg2610.cover.small.jpg",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/2610/2610-h/2610-h.htm",
+				"application/zip": "https://www.gutenberg.org/files/2610/2610-0.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/2610/2610-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/2610.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/2610.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/2610.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2610.kindle.images"
+			},
+			"download_count": 3554
+		},
+		{
+			"id": 67853,
+			"title": "Paris de siècle en siècle: Le Cœur de Paris — Splendeurs et souvenirs",
+			"authors": [
+				{
+					"name": "Robida, Albert",
+					"birth_year": 1848,
+					"death_year": 1926
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- History"
+			],
+			"bookshelves": [],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/67853.rdf",
+				"text/html": "https://www.gutenberg.org/ebooks/67853.html.images",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/67853/pg67853.cover.medium.jpg",
+				"text/plain": "https://www.gutenberg.org/ebooks/67853.txt.utf-8",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/67853.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67853.kindle.images",
+				"application/zip": "https://www.gutenberg.org/files/67853/67853-h.zip",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67853/67853-0.txt"
+			},
+			"download_count": 747
+		},
+		{
+			"id": 19657,
+			"title": "Notre-Dame de Paris",
+			"authors": [
+				{
+					"name": "Hugo, Victor",
+					"birth_year": 1802,
+					"death_year": 1885
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Clergy -- Fiction",
+				"France -- History -- Louis XI, 1461-1483 -- Fiction",
+				"Historical fiction",
+				"Notre-Dame de Paris (Cathedral) -- Fiction",
+				"Paris (France) -- History -- To 1515 -- Fiction",
+				"People with disabilities -- Fiction",
+				"Romances"
+			],
+			"bookshelves": [
+				"Banned Books from Anne Haight's list",
+				"FR Littérature",
+				"Harvard Classics"
+			],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/19657/19657-h.zip",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/19657/19657-8.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/19657/pg19657.cover.medium.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/19657.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/19657/19657-h/19657-h.htm",
+				"text/plain": "https://www.gutenberg.org/ebooks/19657.txt.utf-8",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/19657.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/19657.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19657.kindle.images"
+			},
+			"download_count": 480
+		},
+		{
+			"id": 46675,
+			"title": "Oliver Twist; or, The Parish Boy's Progress. Illustrated",
+			"authors": [
+				{
+					"name": "Dickens, Charles",
+					"birth_year": 1812,
+					"death_year": 1870
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Bildungsromans",
+				"Boys -- Fiction",
+				"Criminals -- Fiction",
+				"Kidnapping victims -- Fiction",
+				"London (England) -- Fiction",
+				"Orphans -- Fiction"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/46675/46675-h.zip",
+				"text/html": "https://www.gutenberg.org/files/46675/46675-h/46675-h.htm",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/46675/pg46675.cover.medium.jpg",
+				"text/plain": "https://www.gutenberg.org/ebooks/46675.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/46675/46675-0.txt",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46675.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/46675.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/46675.epub.images"
+			},
+			"download_count": 473
+		},
+		{
+			"id": 44070,
+			"title": "Le ménagier de Paris (v. 1 & 2)",
+			"authors": [
+				{ "name": "Anonymous", "birth_year": null, "death_year": null }
+			],
+			"translators": [],
+			"subjects": [
+				"Conduct of life -- Early works to 1800",
+				"Cooking, French -- Early works to 1800",
+				"Home economics -- France -- Early works to 1800",
+				"Paris (France) -- Social life and customs -- Early works to 1800"
+			],
+			"bookshelves": ["FR Peuples et Sociétés"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/44070/44070-0.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/44070/44070-0.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/44070/pg44070.cover.small.jpg",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44070/44070-8.txt",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/44070/44070-h/44070-h.htm",
+				"text/html": "https://www.gutenberg.org/ebooks/44070.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44070.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/44070.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/44070.epub.images"
+			},
+			"download_count": 408
+		},
+		{
+			"id": 42890,
+			"title": "The Paris Sketch Book of Mr. M. A. Titmarsh; and the Irish Sketch Book",
+			"authors": [
+				{
+					"name": "Thackeray, William Makepeace",
+					"birth_year": 1811,
+					"death_year": 1863
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Ireland -- Description and travel",
+				"Paris (France) -- Description and travel"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42890/42890-8.zip",
+				"application/zip": "https://www.gutenberg.org/files/42890/42890-h.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/42890/42890-0.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/42890/pg42890.cover.small.jpg",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/42890/42890-h/42890-h.htm",
+				"text/html": "https://www.gutenberg.org/ebooks/42890.html.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42890/42890.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/42890.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42890.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/42890.epub.images"
+			},
+			"download_count": 389
+		},
+		{
+			"id": 50354,
+			"title": "Argot and Slang: A New French and English Dictionary of the Cant Words, Quaint Expressions, Slang Terms and Flash Phrases Used in the High and Low Life of Old and New Paris",
+			"authors": [
+				{
+					"name": "Barrère, Albert",
+					"birth_year": null,
+					"death_year": null
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"French language -- Dictionaries -- English",
+				"French language -- Slang -- Dictionaries"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/50354/50354-h.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/50354/pg50354.cover.small.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/50354/50354-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/50354.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/50354/50354-h/50354-h.htm",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/50354.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/50354.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50354.kindle.images"
+			},
+			"download_count": 358
+		},
+		{
+			"id": 31885,
+			"title": "Bible Myths and their Parallels in other Religions: Being a Comparison of the Old and New Testament Myths and Miracles with those of the Heathen Nations of Antiquity Considering also their Origin and Meaning",
+			"authors": [
+				{
+					"name": "Doane, T. W. (Thomas William)",
+					"birth_year": 1852,
+					"death_year": 1885
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Bible -- Criticism, interpretation, etc.",
+				"Mythology"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/31885/pg31885.cover.small.jpg",
+				"application/zip": "https://www.gutenberg.org/files/31885/31885-h.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/31885/31885-0.zip",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/31885/31885-h/31885-h.htm",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31885/31885.txt",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31885/31885-8.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/31885.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/31885.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/31885.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31885.kindle.images"
+			},
+			"download_count": 290
+		},
+		{
+			"id": 61270,
+			"title": "Poussières de Paris",
+			"authors": [
+				{
+					"name": "Lorrain, Jean",
+					"birth_year": 1855,
+					"death_year": 1906
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Authors, French -- Correspondence",
+				"Paris (France) -- Intellectual life"
+			],
+			"bookshelves": ["FR Chroniques", "FR Villes"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/61270/pg61270.cover.small.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/61270/61270-0.txt",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/61270/61270-h.zip",
+				"application/zip": "https://www.gutenberg.org/files/61270/61270-0.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/61270.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61270.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/61270.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/61270.rdf"
+			},
+			"download_count": 231
+		},
+		{
+			"id": 61666,
+			"title": "Le chemin des écoliers: Promenade de Paris à Marly-le-Roy, en suivant les bords du Rhin",
+			"authors": [
+				{
+					"name": "Saintine, X.-B. (Xavier-Boniface)",
+					"birth_year": 1798,
+					"death_year": 1865
+				}
+			],
+			"translators": [],
+			"subjects": ["Rhine River Valley -- Description and travel"],
+			"bookshelves": [],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/61666/61666-0.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/61666/61666-h.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/61666/pg61666.cover.medium.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/61666/61666-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/61666.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/61666.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/61666.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61666.kindle.images"
+			},
+			"download_count": 218
+		},
+		{
+			"id": 40865,
+			"title": "Paris and the Social Revolution: A Study of the Revolutionary Elements in the Various Classes of Parisian Society",
+			"authors": [
+				{
+					"name": "Sanborn, Alvan F. (Alvan Francis)",
+					"birth_year": 1866,
+					"death_year": 1966
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Anarchism -- France",
+				"Paris (France) -- Politics and government",
+				"Quartier latin (Paris, France)",
+				"Revolutions",
+				"Socialism -- France"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/40865/pg40865.cover.medium.jpg",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40865/40865.txt",
+				"application/zip": "https://www.gutenberg.org/files/40865/40865-0.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/40865/40865-0.txt",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/40865/40865-h/40865-h.htm",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40865/40865-8.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/40865.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40865.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/40865.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/40865.epub.images"
+			},
+			"download_count": 205
+		},
+		{
+			"id": 42180,
+			"title": "Parish Priests and Their People in the Middle Ages in England",
+			"authors": [
+				{
+					"name": "Cutts, Edward Lewes",
+					"birth_year": 1824,
+					"death_year": 1901
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Catholic Church -- England -- Clergy",
+				"Church history -- Middle Ages, 600-1500",
+				"Clergy -- England",
+				"England -- Church history -- 1066-1485",
+				"England -- Social life and customs -- 1066-1485"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/42180/42180-h.zip",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42180/42180.txt",
+				"application/zip": "https://www.gutenberg.org/files/42180/42180-8.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/42180/pg42180.cover.medium.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/42180/42180-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/42180.html.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42180/42180-8.txt",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42180.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/42180.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/42180.epub.images"
+			},
+			"download_count": 203
+		},
+		{
+			"id": 55860,
+			"title": "La Comédie humaine - Volume 09. Scènes de la vie parisienne - Tome 01",
+			"authors": [
+				{
+					"name": "Balzac, Honoré de",
+					"birth_year": 1799,
+					"death_year": 1850
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"France -- Social life and customs -- 19th century -- Fiction"
+			],
+			"bookshelves": ["FR Littérature"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/55860/55860-0.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/55860/pg55860.cover.small.jpg",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/55860/55860-h.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/55860.html.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/55860.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/55860.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55860.kindle.images"
+			},
+			"download_count": 186
+		},
+		{
+			"id": 33800,
+			"title": "The Mysteries of Paris, illustrated with etchings, Vol. 1",
+			"authors": [
+				{
+					"name": "Sue, Eugène",
+					"birth_year": 1804,
+					"death_year": 1857
+				}
+			],
+			"translators": [],
+			"subjects": ["Paris (France) -- Fiction"],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/33800/33800.zip",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33800/33800-h/33800-h.htm",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33800/33800.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/33800/pg33800.cover.small.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/33800.html.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33800/33800-8.txt",
+				"text/plain": "https://www.gutenberg.org/ebooks/33800.txt.utf-8",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/33800.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/33800.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33800.kindle.images"
+			},
+			"download_count": 175
+		},
+		{
+			"id": 34451,
+			"title": "Paris",
+			"authors": [
+				{
+					"name": "Zola, Émile",
+					"birth_year": 1840,
+					"death_year": 1902
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Catholics -- Fiction",
+				"Clergy -- Fiction",
+				"Man-woman relationships -- Fiction",
+				"Paris (France) -- Fiction"
+			],
+			"bookshelves": ["FR Littérature"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/34451/34451-0.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/34451/pg34451.cover.small.jpg",
+				"application/zip": "https://www.gutenberg.org/files/34451/34451-h.zip",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34451/34451-h/34451-h.htm",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/34451/34451-8.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/34451.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34451.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/34451.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/34451.epub.images"
+			},
+			"download_count": 168
+		},
+		{
+			"id": 60551,
+			"title": "La Comédie humaine - Volume 11. Scènes de la vie parisienne - Tome 03",
+			"authors": [
+				{
+					"name": "Balzac, Honoré de",
+					"birth_year": 1799,
+					"death_year": 1850
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"France -- Social life and customs -- 19th century -- Fiction"
+			],
+			"bookshelves": ["FR Littérature"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/60551/pg60551.cover.small.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/60551/60551-0.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/60551/60551-h.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/60551.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/60551.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/60551.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/60551.kindle.images"
+			},
+			"download_count": 164
+		},
+		{
+			"id": 18921,
+			"title": "Les mystères de Paris, Tome I",
+			"authors": [
+				{
+					"name": "Sue, Eugène",
+					"birth_year": 1804,
+					"death_year": 1857
+				}
+			],
+			"translators": [],
+			"subjects": ["Paris (France) -- Fiction"],
+			"bookshelves": ["FR Littérature", "France"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18921/18921-8.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/18921/pg18921.cover.medium.jpg",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18921/18921-h.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/18921.html.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/18921.txt.utf-8",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18921.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/18921.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/18921.rdf"
+			},
+			"download_count": 150
+		},
+		{
+			"id": 17760,
+			"title": "How to Enjoy Paris in 1842: Intended to Serve as a Companion and Monitor, Containing; Historical, Political, Commercial, Artistical, Theatrical; And Statistical Information",
+			"authors": [
+				{
+					"name": "Hervé, Francis",
+					"birth_year": null,
+					"death_year": null
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- Guidebooks",
+				"Paris (France) -- Social life and customs -- 19th century"
+			],
+			"bookshelves": ["France"],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/17760/17760-h.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/17760/pg17760.cover.small.jpg",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17760/17760-h/17760-h.htm",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17760/17760.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/17760.html.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17760/17760-8.txt",
+				"text/plain": "https://www.gutenberg.org/ebooks/17760.txt.utf-8",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17760.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/17760.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/17760.rdf"
+			},
+			"download_count": 144
+		},
+		{
+			"id": 58244,
+			"title": "La Comédie humaine - Volume 10. Scènes de la vie parisienne - Tome 02",
+			"authors": [
+				{
+					"name": "Balzac, Honoré de",
+					"birth_year": 1799,
+					"death_year": 1850
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"France -- Social life and customs -- 19th century -- Fiction"
+			],
+			"bookshelves": ["FR Littérature"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/58244/pg58244.cover.small.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/58244.html.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/58244/58244-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/58244.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/58244.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58244.kindle.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/58244/58244-h/58244-h.htm"
+			},
+			"download_count": 138
+		},
+		{
+			"id": 26450,
+			"title": "The Story of Paris",
+			"authors": [
+				{
+					"name": "Okey, Thomas",
+					"birth_year": 1852,
+					"death_year": 1935
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- History"
+			],
+			"bookshelves": ["Mediæval Town Series"],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/26450/26450.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/26450/pg26450.cover.medium.jpg",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/26450/26450-8.txt",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26450/26450.txt",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/26450/26450-h/26450-h.htm",
+				"text/html": "https://www.gutenberg.org/ebooks/26450.html.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/26450.txt.utf-8",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26450.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/26450.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/26450.rdf"
+			},
+			"download_count": 136
+		},
+		{
+			"id": 64084,
+			"title": "Les demoiselles Goubert: mœurs de Paris",
+			"authors": [
+				{
+					"name": "Adam, Paul",
+					"birth_year": 1862,
+					"death_year": 1920
+				},
+				{
+					"name": "Moréas, Jean",
+					"birth_year": 1856,
+					"death_year": 1910
+				}
+			],
+			"translators": [],
+			"subjects": ["French fiction -- 19th century"],
+			"bookshelves": [],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/64084/64084-0.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/64084/64084-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/64084.html.images",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/64084/pg64084.cover.small.jpg",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/64084.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/64084.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/64084.rdf"
+			},
+			"download_count": 133
+		},
+		{
+			"id": 67469,
+			"title": "Paris de siècle en siècle",
+			"authors": [
+				{
+					"name": "Robida, Albert",
+					"birth_year": 1848,
+					"death_year": 1926
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- History"
+			],
+			"bookshelves": [],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/67469/67469-h.zip",
+				"application/octet-stream": "https://www.gutenberg.org/files/67469/67469-0.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/67469/pg67469.cover.medium.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/67469.html.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/67469.rdf",
+				"text/plain": "https://www.gutenberg.org/ebooks/67469.txt.utf-8",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/67469.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67469.kindle.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67469/67469-0.txt"
+			},
+			"download_count": 127
+		},
+		{
+			"id": 10861,
+			"title": "Paris under the Commune: The Seventy-Three Days of the Second Siege; with Numerous Illustrations, Sketches Taken on the Spot, and Portraits (from the Original Photographs)",
+			"authors": [
+				{
+					"name": "Leighton, John",
+					"birth_year": 1822,
+					"death_year": 1912
+				}
+			],
+			"translators": [],
+			"subjects": ["Paris (France) -- History -- Commune, 1871"],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/10861/10861.zip",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/10861/10861-8.txt",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/10861/pg10861.cover.medium.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/10861/10861-0.txt",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10861/10861.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/10861.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/10861/10861-h/10861-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/10861.epub.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/10861.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10861.kindle.images"
+			},
+			"download_count": 122
+		},
+		{
+			"id": 39989,
+			"title": "The Churches of Paris, from Clovis to Charles X",
+			"authors": [
+				{
+					"name": "Beale, Sophia",
+					"birth_year": 1837,
+					"death_year": 1920
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Church buildings -- France -- Paris",
+				"Paris (France) -- Buildings, structures, etc."
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/39989/39989-8.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/39989/pg39989.cover.small.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/39989/39989-0.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/39989/39989-h/39989-h.htm",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39989/39989-8.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/39989.html.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/39989.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/39989.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39989.kindle.images"
+			},
+			"download_count": 120
+		},
+		{
+			"id": 42722,
+			"title": "Historic Paris",
+			"authors": [
+				{
+					"name": "Wolff, Jetta Sophia",
+					"birth_year": null,
+					"death_year": null
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- History"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/42722/pg42722.cover.medium.jpg",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42722/42722-8.txt",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/42722/42722-0.zip",
+				"application/zip": "https://www.gutenberg.org/files/42722/42722-h.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/42722/42722-h/42722-h.htm",
+				"text/html": "https://www.gutenberg.org/ebooks/42722.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42722.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/42722.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/42722.epub.images"
+			},
+			"download_count": 113
+		},
+		{
+			"id": 30696,
+			"title": "Vingt années de Paris",
+			"authors": [
+				{
+					"name": "Gill, André",
+					"birth_year": 1840,
+					"death_year": 1885
+				}
+			],
+			"translators": [],
+			"subjects": ["Paris (France) -- History -- 19th century"],
+			"bookshelves": ["FR Littérature"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/30696/30696-h.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/30696/30696-0.txt",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30696/30696-8.txt",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30696/30696-h/30696-h.htm",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/30696/pg30696.cover.small.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/30696.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30696.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/30696.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/30696.epub.images"
+			},
+			"download_count": 113
+		},
+		{
+			"id": 40293,
+			"title": "Vie de Bohème: A Patch of Romantic Paris",
+			"authors": [
+				{
+					"name": "Williams, Orlo",
+					"birth_year": 1883,
+					"death_year": null
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Intellectual life",
+				"Paris (France) -- Social life and customs"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/40293/pg40293.cover.small.jpg",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40293/40293-8.txt",
+				"application/zip": "https://www.gutenberg.org/files/40293/40293-8.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/40293/40293-h/40293-h.htm",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/40293/40293-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/40293.html.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40293.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/40293.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/40293.epub.images"
+			},
+			"download_count": 108
+		},
+		{
+			"id": 39331,
+			"title": "Histoire des salons de Paris (Tome 1/6): Tableaux et portraits du grand monde sous Louis XVI, Le Directoire, le Consulat et l'Empire, la Restauration et le règne de Louis-Philippe Ier",
+			"authors": [
+				{
+					"name": "Abrantès, Laure Junot, duchesse d'",
+					"birth_year": 1784,
+					"death_year": 1838
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Intellectual life",
+				"Paris (France) -- Social life and customs",
+				"Salons -- France -- Paris"
+			],
+			"bookshelves": [
+				"FR Biographie, Mémoires, Journal intime, Correspondance",
+				"FR Chroniques"
+			],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/39331/pg39331.cover.small.jpg",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/39331/39331-0.txt",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39331/39331-h.zip",
+				"application/zip": "https://www.gutenberg.org/files/39331/39331-0.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/39331.html.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/39331.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39331.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/39331.epub.images"
+			},
+			"download_count": 107
+		},
+		{
+			"id": 54182,
+			"title": "Journal d'un bourgeois de Paris, 1405-1449",
+			"authors": [],
+			"translators": [],
+			"subjects": [
+				"France -- History -- Charles VI, 1380-1422",
+				"France -- History -- Charles VII, 1422-1461",
+				"Hundred Years' War, 1339-1453",
+				"Paris (France) -- History -- To 1515"
+			],
+			"bookshelves": ["FR Chroniques"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/54182/pg54182.cover.small.jpg",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/54182/54182-h.zip",
+				"application/zip": "https://www.gutenberg.org/files/54182/54182-0.zip",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/54182/54182-0.txt",
+				"text/html": "https://www.gutenberg.org/ebooks/54182.html.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/54182.rdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54182.kindle.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/54182.epub.images"
+			},
+			"download_count": 106
+		},
+		{
+			"id": 42647,
+			"title": "Old and New Paris: Its History, Its People, and Its Places, v. 2",
+			"authors": [
+				{
+					"name": "Edwards, H. Sutherland (Henry Sutherland)",
+					"birth_year": 1828,
+					"death_year": 1906
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Paris (France) -- Description and travel",
+				"Paris (France) -- History"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42647/42647-8.txt",
+				"application/zip": "https://www.gutenberg.org/files/42647/42647-8.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/42647/pg42647.cover.medium.jpg",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/42647/42647-h.zip",
+				"text/html": "https://www.gutenberg.org/ebooks/42647.html.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/42647/42647-0.txt",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42647.kindle.images",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/42647.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/42647.epub.images"
+			},
+			"download_count": 104
+		},
+		{
+			"id": 1496,
+			"title": "Massacre at Paris",
+			"authors": [
+				{
+					"name": "Marlowe, Christopher",
+					"birth_year": 1564,
+					"death_year": 1593
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Guise, Henri, duc de, 1550-1588 -- Drama",
+				"Historical drama",
+				"Saint Bartholomew's Day, Massacre of, France, 1572 -- Drama",
+				"Tragedies"
+			],
+			"bookshelves": [],
+			"languages": ["en"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"application/zip": "https://www.gutenberg.org/files/1496/1496-h.zip",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/1496/pg1496.cover.small.jpg",
+				"text/html": "https://www.gutenberg.org/ebooks/1496.html.images",
+				"text/html; charset=us-ascii": "https://www.gutenberg.org/files/1496/1496-h/1496-h.htm",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1496/1496.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/1496.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/1496.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1496.kindle.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/1496.txt.utf-8"
+			},
+			"download_count": 102
+		},
+		{
+			"id": 50974,
+			"title": "Le crime et la débauche à Paris; Le divorce",
+			"authors": [
+				{
+					"name": "Desmaze, Charles",
+					"birth_year": 1820,
+					"death_year": 1900
+				}
+			],
+			"translators": [],
+			"subjects": ["Crime", "Crime -- France -- Paris", "Divorce"],
+			"bookshelves": ["FR Droit et Justice"],
+			"languages": ["fr"],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/50974/pg50974.cover.medium.jpg",
+				"application/zip": "https://www.gutenberg.org/files/50974/50974-0.zip",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/50974/50974-h/50974-h.htm",
+				"text/html": "https://www.gutenberg.org/ebooks/50974.html.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/50974/50974-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/50974.rdf",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/50974.epub.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50974.kindle.images"
+			},
+			"download_count": 99
+		}
+	]
+}

@@ -9,6 +9,7 @@ body {
 			color: #aaa;
 			text-decoration: none;
 		}
+
 		a.active {
 			color: yellow;
 		}
@@ -22,8 +23,18 @@ body {
 			border-radius: 5px;
 
 			.title {
-				font-size: 1.2rem;
+				font-size: 1.4rem;
 				color: white;
+			}
+
+			.author {
+				font-size: 1.2rem;
+				color: rgb(225, 225, 110);
+			}
+
+			.authorNotFound {
+				font-size: 1.2rem;
+				color: red;
 			}
 		}
 	}
