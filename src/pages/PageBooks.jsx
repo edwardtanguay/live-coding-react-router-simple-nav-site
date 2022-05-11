@@ -29,13 +29,24 @@ export const PageBooks = () => {
 			return r;
 		};
 
+		const getImageUrl = (rawBook) => {
+			let r = '';
+			Object.entries(rawBook.formats).forEach((entry) => {
+				const key = entry[0];
+				const url = entry[1];
+				if (key === 'image/jpeg') {
+					r = url;
+				}
+			});
+			return r;
+		};
+
 		bookData.results.forEach((rawBook) => {
 			_books.push({
 				title: rawBook.title,
 				author: rawBook.authors[0] ? rawBook.authors[0].name : '',
 				readUrl: getReadUrl(rawBook),
-				imageUrl:
-					'https://www.gutenberg.org/cache/epub/42722/pg42722.cover.medium.jpg',
+				imageUrl: getImageUrl(rawBook)
 			});
 		});
 		setBooks(_books);
