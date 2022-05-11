@@ -13,4 +13,18 @@ body {
 			color: yellow;
 		}
 	}
+
+	.books {
+		.book {
+			background-color: #444;
+			margin: 0 0 10px 0;
+			padding: 20px;
+			border-radius: 5px;
+
+			.title {
+				font-size: 1.2rem;
+				color: white;
+			}
+		}
+	}
 }

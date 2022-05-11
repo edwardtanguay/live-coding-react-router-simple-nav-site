@@ -3,27 +3,44 @@ import axios from 'axios';
 
 const booksUrl = 'https://gutendex.com/books/?search=berlin';
 
+// interface
+const book = {
+	title: 'ttt',
+	author: 'aaa',
+	readUrl: 'uuu',
+	imageUrl: 'uuu',
+};
+
 export const PageBooks = () => {
-	const [bookData, setBookData] = useState({count: 0, results: []});
+	const [books, setBooks] = useState([]);
+
+	const buildBooksArray = (bookData) => {
+		const _books = [];
+		// forEach
+		setBooks(_books);
+	}
 
 	useEffect(() => {
 		(async () => {
-			setBookData((await axios.get(booksUrl)).data);	
+			const bookData = (await axios.get(booksUrl)).data;
+			buildBooksArray(bookData);
 		})();
 	}, []);
 
 	return (
 		<>
-		<h2>Books</h2>	
-		<p>There are {bookData.count} books yet.</p>
+			<h2>Books</h2>
+			<p>There are {books.length} books yet.</p>
 
-			{bookData.results.map((book, index) => {
-				return (
-					<div className="book">
-						<div className="title">{book.title}</div>
-					</div>
-				)
-		})}
+			<div className="books">
+				{books.map((book, index) => {
+					return (
+						<div className="book">
+							<div className="title">{book.title}</div>
+						</div>
+					);
+				})}
+			</div>
 		</>
-	)
-}
+	);
+};
