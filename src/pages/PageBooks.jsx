@@ -16,17 +16,13 @@ export const PageBooks = () => {
 
 	const buildBooksArray = (bookData) => {
 		const _books = [];
-		// forEach
-		_books.push(
-			{
-				title: "Book #1"
-			},
-			{
-				title: "Book #2"
-			}
-		);
+		bookData.results.forEach((rawBook) => {
+			_books.push({
+				title: rawBook.title,
+			});
+		});
 		setBooks(_books);
-	}
+	};
 
 	useEffect(() => {
 		(async () => {
