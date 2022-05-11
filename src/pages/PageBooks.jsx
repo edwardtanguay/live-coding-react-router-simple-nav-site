@@ -5,6 +5,7 @@ const booksUrl = 'https://gutendex.com/books/?search=paris';
 
 export const PageBooks = () => {
 	const [books, setBooks] = useState([]);
+	const [searchText, setSearchText] = useState('');
 
 	const buildBooksArray = (bookData) => {
 		const _books = [];
@@ -51,9 +52,16 @@ export const PageBooks = () => {
 		})();
 	}, []);
 
+	const handleSearch = () => {
+		alert('handlesearch');
+	}
+
 	return (
 		<>
 			<h2>Books</h2>
+			<div className="searchArea">
+				<input value={searchText} onChange={(e) => setSearchText(e.target.value)} type="text" /> <button onClick={handleSearch}>Search</button>
+			</div>
 			<p>There are {books.length} books yet.</p>
 
 			<div className="books">
