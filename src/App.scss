@@ -21,21 +21,31 @@ body {
 			margin: 0 0 10px 0;
 			padding: 20px;
 			border-radius: 5px;
+			display: flex;
 
-			.title a {
-				font-size: 1.4rem;
-				color: white;
-				text-decoration: none;
+			.image {
+				img {
+					height: 150px;
+				}
 			}
 
-			.author {
-				font-size: 1.2rem;
-				color: rgb(225, 225, 110);
-			}
+			.info {
+				margin: 0 0 0 10px;
+				.title a {
+					font-size: 1.4rem;
+					color: white;
+					text-decoration: none;
+				}
 
-			.authorNotFound {
-				font-size: 1.2rem;
-				color: red;
+				.author {
+					font-size: 1.2rem;
+					color: rgb(225, 225, 110);
+				}
+
+				.authorNotFound {
+					font-size: 1.2rem;
+					color: red;
+				}
 			}
 		}
 	}
