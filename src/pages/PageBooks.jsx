@@ -3,14 +3,6 @@ import axios from 'axios';
 
 const booksUrl = 'https://gutendex.com/books/?search=paris';
 
-// interface
-const book = {
-	title: 'ttt',
-	author: 'aaa',
-	readUrl: 'uuu',
-	imageUrl: 'uuu',
-};
-
 export const PageBooks = () => {
 	const [books, setBooks] = useState([]);
 
