@@ -22,9 +22,10 @@ body {
 			padding: 20px;
 			border-radius: 5px;
 
-			.title {
+			.title a {
 				font-size: 1.4rem;
 				color: white;
+				text-decoration: none;
 			}
 
 			.author {
