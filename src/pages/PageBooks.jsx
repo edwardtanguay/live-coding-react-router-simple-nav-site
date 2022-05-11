@@ -17,6 +17,14 @@ export const PageBooks = () => {
 	const buildBooksArray = (bookData) => {
 		const _books = [];
 		// forEach
+		_books.push(
+			{
+				title: "Book #1"
+			},
+			{
+				title: "Book #2"
+			}
+		);
 		setBooks(_books);
 	}
 
